@@ -6,5 +6,5 @@ main, footer {
     max-width: 960px;
     margin: 0 auto;
     font: 18px "Lucida Grande", Helvetica,
-    color #fff,
+    color #fff;
 }
