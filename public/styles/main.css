@@ -1,9 +1,10 @@
-body {
-    font: 18px "Lucida Grande", Helvetica, Arial, sans-serif;
+body { Arial, sans-serif;
     line-height: 2;
 }
 
 main, footer {
     max-width: 960px;
     margin: 0 auto;
+    font: 18px "Lucida Grande", Helvetica,
+    color #fff,
 }
